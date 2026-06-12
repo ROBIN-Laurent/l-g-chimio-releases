@@ -1,3 +1,4 @@
+🇫🇷 [Français](README.md) · 🇬🇧 [English](README.en.md)
 # L-g-Chimio — version 2
 
 **Gestion intégrée d'une chimiothèque et d'une extractothèque de recherche, avec cheminformatique et bioactivité.**
